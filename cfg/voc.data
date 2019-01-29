@@ -1,0 +1,5 @@
+classes= 20
+train  = /mydisk/darknet_projects/darknet/data/2007_train.txt
+valid  = /mydisk/darknet_projects/darknet/data/2007_test.txt
+names = /mydisk/darknet_projects/darknet/data/voc.names
+backup = backup

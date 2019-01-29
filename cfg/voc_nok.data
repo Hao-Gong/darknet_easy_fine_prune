@@ -1,0 +1,6 @@
+classes= 3
+train  =F:/vs_Pro/darknet_projects/darknet/data/NOK/2007_train.txt
+valid  = F:/vs_Pro/darknet_projects/darknet/data/NOK/2007_val.txt
+names = F:/vs_Pro/darknet_projects/darknet/data/NOK/voc.names
+backup = backup
+
